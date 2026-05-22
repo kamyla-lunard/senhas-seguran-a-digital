@@ -1,1 +1,1 @@
-# senhas-seguran-a-digital
+# senhas-segurança-digital
